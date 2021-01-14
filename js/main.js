@@ -45,7 +45,7 @@ function validate() {
         return false;
     }
 
-    alert('/redirect.html');
+    
 
     return true;
 }
